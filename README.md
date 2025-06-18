@@ -14,6 +14,7 @@ https://huggingface.co/spaces/jbeardwo/guitar_brand_classifier
 - Web interface with live image upload and prediction
 - Designed as a Gradio app for simple deployment
 - Contains a notebook detailing how we got our dataset and trained the model
+- Additionally contains a notebook for trying gradio locally.
 ---
 
 Big thanks to the fastai course
